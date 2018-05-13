@@ -5,7 +5,7 @@ Team: unBlockFood
 
 Developers: Kelemati Ioanna, Toutara Foteini, Chamatidis Ilias
 
-This code is developed in Python with BigchainDB. Ιt creates an asset, for example an asset named 'oliveoil'
+This code is developed in Python with BigchainDB. Ξ™t creates an asset, for example an asset named 'oliveoil'
 is generated with 1000 tokens representing 1 lt of olive oil per token.
 Some transactions ara used to transfer a certain amount of tokens to another trader.
 The program is used to track the supply chain of a certain product, from the
@@ -17,8 +17,8 @@ beginning of the production progress till the end.
 --------------------------------------------------------- 
 
 
-Ο κώδικας σε Python κάνει create asset. Για παράδειγμα ένα asset 'ελαιόλαδο' με 1000 tokens 
-που αντιπροσωπεύουν το καθένα 1 lt ελαιόλαδο και πραγματοποιούνται διάφορα transactions 
-transfer απο τον αρχικό παραγωγό μέχρι την τυποποίηση του προϊόντος, συμπεριλαμβάνοντας 
-και τους ενδιάμεσους εμπόρους. Η εφαρμογή αυτή υλοποιείται με στόχο την παρακολούθηση 
-της εφοδιαστικής αλυσίδας με χρήση Blockchain, συγκεκριμένα BigchainDB.
+Ξ ΞΊΟΞ΄ΞΉΞΊΞ±Ο‚ ΟƒΞµ Python ΞΊΞ¬Ξ½ΞµΞΉ create asset. Ξ“ΞΉΞ± Ο€Ξ±ΟΞ¬Ξ΄ΞµΞΉΞ³ΞΌΞ± Ξ­Ξ½Ξ± asset 'ΞµΞ»Ξ±ΞΉΟΞ»Ξ±Ξ΄ΞΏ' ΞΌΞµ 1000 tokens 
+Ο€ΞΏΟ… Ξ±Ξ½Ο„ΞΉΟ€ΟΞΏΟƒΟ‰Ο€ΞµΟΞΏΟ…Ξ½ Ο„ΞΏ ΞΊΞ±ΞΈΞ­Ξ½Ξ± 1 lt ΞµΞ»Ξ±ΞΉΟΞ»Ξ±Ξ΄ΞΏ ΞΊΞ±ΞΉ Ο€ΟΞ±Ξ³ΞΌΞ±Ο„ΞΏΟ€ΞΏΞΉΞΏΟΞ½Ο„Ξ±ΞΉ Ξ΄ΞΉΞ¬Ο†ΞΏΟΞ± transactions 
+transfer Ξ±Ο€ΞΏ Ο„ΞΏΞ½ Ξ±ΟΟ‡ΞΉΞΊΟ Ο€Ξ±ΟΞ±Ξ³Ο‰Ξ³Ο ΞΌΞ­Ο‡ΟΞΉ Ο„Ξ·Ξ½ Ο„Ο…Ο€ΞΏΟ€ΞΏΞ―Ξ·ΟƒΞ· Ο„ΞΏΟ… Ο€ΟΞΏΟΟΞ½Ο„ΞΏΟ‚, ΟƒΟ…ΞΌΟ€ΞµΟΞΉΞ»Ξ±ΞΌΞ²Ξ¬Ξ½ΞΏΞ½Ο„Ξ±Ο‚ 
+ΞΊΞ±ΞΉ Ο„ΞΏΟ…Ο‚ ΞµΞ½Ξ΄ΞΉΞ¬ΞΌΞµΟƒΞΏΟ…Ο‚ ΞµΞΌΟ€ΟΟΞΏΟ…Ο‚. Ξ— ΞµΟ†Ξ±ΟΞΌΞΏΞ³Ξ® Ξ±Ο…Ο„Ξ® Ο…Ξ»ΞΏΟ€ΞΏΞΉΞµΞ―Ο„Ξ±ΞΉ ΞΌΞµ ΟƒΟ„ΟΟ‡ΞΏ Ο„Ξ·Ξ½ Ο€Ξ±ΟΞ±ΞΊΞΏΞ»ΞΏΟΞΈΞ·ΟƒΞ· 
+Ο„Ξ·Ο‚ ΞµΟ†ΞΏΞ΄ΞΉΞ±ΟƒΟ„ΞΉΞΊΞ®Ο‚ Ξ±Ξ»Ο…ΟƒΞ―Ξ΄Ξ±Ο‚ ΞΌΞµ Ο‡ΟΞ®ΟƒΞ· Blockchain, ΟƒΟ…Ξ³ΞΊΞµΞΊΟΞΉΞΌΞ­Ξ½Ξ± BigchainDB.
